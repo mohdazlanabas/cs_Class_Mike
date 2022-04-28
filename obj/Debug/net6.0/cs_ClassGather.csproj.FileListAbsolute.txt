@@ -1,0 +1,15 @@
+D:\CSharp\cs_ClassGather\bin\Debug\net6.0\cs_ClassGather.exe
+D:\CSharp\cs_ClassGather\bin\Debug\net6.0\cs_ClassGather.deps.json
+D:\CSharp\cs_ClassGather\bin\Debug\net6.0\cs_ClassGather.runtimeconfig.json
+D:\CSharp\cs_ClassGather\bin\Debug\net6.0\cs_ClassGather.dll
+D:\CSharp\cs_ClassGather\bin\Debug\net6.0\cs_ClassGather.pdb
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\cs_ClassGather.csproj.AssemblyReference.cache
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\cs_ClassGather.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\cs_ClassGather.AssemblyInfoInputs.cache
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\cs_ClassGather.AssemblyInfo.cs
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\cs_ClassGather.csproj.CoreCompileInputs.cache
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\cs_ClassGather.dll
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\refint\cs_ClassGather.dll
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\cs_ClassGather.pdb
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\cs_ClassGather.genruntimeconfig.cache
+D:\CSharp\cs_ClassGather\obj\Debug\net6.0\ref\cs_ClassGather.dll
